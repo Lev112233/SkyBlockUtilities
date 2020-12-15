@@ -1,0 +1,8 @@
+
+{
+    "name":"SkyBlockUtilities",
+    "author": "Lev_112233",
+    "entry": "loader.js",
+    "requires": ["SettingsManager", "PersistentData", "RingSelector", "request", "Promise"],
+    "version": "1.0.0"
+  }
